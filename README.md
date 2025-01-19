@@ -26,7 +26,8 @@ The Entertainment App is a full-stack application designed to provide users with
    git clone https://github.com/yourusername/entertainment-app.git
    cd entertainment-web-app/backend
    npm install
-##Configure Environment Variables: Create a .env file based on the provided .env.example file. Provide your MongoDB URI and TMDB API key in the .env file.
+   
+## Configure Environment Variables: Create a .env file based on the provided .env.example file. Provide your MongoDB URI and TMDB API key in the .env file.
 
 MONGODB_URL= "Mongodb connection string our url "
 TOKEN= "Secret token for authentication & cookies"
