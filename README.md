@@ -27,12 +27,6 @@ The Entertainment App is a full-stack application designed to provide users with
    cd entertainment-web-app/backend
    npm install
    
-## Configure Environment Variables: Create a .env file based on the provided .env.example file. Provide your MongoDB URI and TMDB API key in the .env file.
 
-MONGODB_URL="your-mongodb-connection-string"
-TOKEN="your-secret-token"
-NODE_ENV="development"
-TMDB_KEY="your-tmdb-api-key"
-FRONTEND_URL="your-frontend-url"
 
     
